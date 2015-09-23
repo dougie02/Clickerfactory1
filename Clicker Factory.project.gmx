@@ -20,11 +20,15 @@
   <objects name="objects">
     <object>objects\objInit</object>
     <object>objects\objFactory</object>
+    <object>objects\objNew</object>
+    <object>objects\objQuit</object>
+    <object>objects\objContinue</object>
   </objects>
   <rooms name="rooms">
-    <room>rooms\room0</room>
-    <room>rooms\RM_continue</room>
-    <room>rooms\RM_new</room>
+    <room>rooms\rmStart</room>
+    <room>rooms\rmNew</room>
+    <room>rooms\rmContinue</room>
+    <room>rooms\rmMain</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>

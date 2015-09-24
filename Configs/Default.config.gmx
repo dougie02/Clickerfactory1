@@ -2,7 +2,7 @@
 <Config>
   <Options>
     <option_aborterrors>False</option_aborterrors>
-    <option_android_GPU_device>0</option_android_GPU_device>
+    <option_android_GPU_device>1</option_android_GPU_device>
     <option_android_adcolony_enable_V4VC>0</option_android_adcolony_enable_V4VC>
     <option_android_advertising_enable>0</option_android_advertising_enable>
     <option_android_advertising_key></option_android_advertising_key>

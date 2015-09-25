@@ -28,6 +28,8 @@
             <string>global.points = 0;
 global.points2 = 0;
 global.workers = 1;
+global.moneyloss =1;
+global.moneygain =0;
 
 </string>
           </argument>

@@ -29,21 +29,6 @@
 global.points2 = 0;
 global.workers = 1;
 
-
-
-
-
-
-global.w=display_get_width()
-global.h=display_get_height()
-
-if room_width!=global.w and room_height!=global.h
-{
-     room_set_width(room,global.w)
-     room_set_height(room,global.h)
-
-     room_restart()
-}
 </string>
           </argument>
         </arguments>

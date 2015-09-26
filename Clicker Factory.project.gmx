@@ -33,11 +33,20 @@
     <objects name="RoomBased">
       <object>objects\objRmNew</object>
     </objects>
+    <objects name="Upgrades">
+      <objects name="WorkEfficiency">
+        <object>objects\objDougnuts</object>
+        <object>objects\objWaterFountain</object>
+        <object>objects\obj</object>
+      </objects>
+      <object>objects\objNewWorker</object>
+    </objects>
   </objects>
   <rooms name="rooms">
     <room>rooms\rmStart</room>
     <room>rooms\rmNew</room>
     <room>rooms\rmMain</room>
+    <room>rooms\rmUpgrades</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>

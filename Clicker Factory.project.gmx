@@ -6,11 +6,22 @@
   <NewExtensions/>
   <sounds name="sound"/>
   <sprites name="sprites">
-    <sprite>sprites\sprite2</sprite>
     <sprite>sprites\SPR_factory</sprite>
-    <sprite>sprites\SPR_new</sprite>
-    <sprite>sprites\SPR_Quit</sprite>
-    <sprite>sprites\SPR_contine</sprite>
+    <sprites name="Buttons">
+      <sprite>sprites\SPR_new</sprite>
+      <sprite>sprites\SPR_Quit</sprite>
+      <sprite>sprites\SPR_contine</sprite>
+      <sprite>sprites\sprUpgrades</sprite>
+      <sprite>sprites\sprBuy</sprite>
+    </sprites>
+    <sprites name="Upgrades">
+      <sprite>sprites\sprComputer</sprite>
+      <sprite>sprites\sprChair</sprite>
+      <sprite>sprites\sprDesk</sprite>
+      <sprite>sprites\sprCoffee</sprite>
+      <sprite>sprites\sprDoughnut</sprite>
+      <sprite>sprites\sprHoliday</sprite>
+    </sprites>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -29,15 +40,34 @@
       <object>objects\objNew</object>
       <object>objects\objContinue</object>
       <object>objects\objQuit</object>
+      <object>objects\objUpgrades</object>
+      <objects name="Buy">
+        <object>objects\objBuy1</object>
+        <object>objects\objBuy2</object>
+        <object>objects\objBuy3</object>
+        <object>objects\objBuy4</object>
+        <object>objects\objBuy5</object>
+        <object>objects\objBuy6</object>
+        <object>objects\objBuy7</object>
+      </objects>
     </objects>
     <objects name="RoomBased">
       <object>objects\objRmNew</object>
     </objects>
     <objects name="Upgrades">
       <objects name="WorkEfficiency">
-        <object>objects\objDougnuts</object>
-        <object>objects\objWaterFountain</object>
-        <object>objects\obj</object>
+        <object>objects\objChairUpgrade</object>
+        <object>objects\objChairUpgradeBuy</object>
+        <object>objects\objCoffee</object>
+        <object>objects\objCoffeeBuy</object>
+        <object>objects\objDoughnuts</object>
+        <object>objects\objDoughnutsBuy</object>
+        <object>objects\objComputerUpgrade</object>
+        <object>objects\objComputerUpgradeBuy</object>
+        <object>objects\objDesk</object>
+        <object>objects\objDeskBuy</object>
+        <object>objects\objHoliday</object>
+        <object>objects\objHolidayBuy</object>
       </objects>
       <object>objects\objNewWorker</object>
     </objects>

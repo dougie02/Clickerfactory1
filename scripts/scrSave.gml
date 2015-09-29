@@ -2,4 +2,11 @@ ini_open("clickfactory.ini");
 ini_write_real("save","points",global.points);
 ini_write_real("save","points2",global.points2);
 ini_write_real("save","workers",global.workers);
+/*ini_write_real("save","chair",global.Chair)
+ini_write_real("save","coffee",global.Coffee)
+ini_write_real("save","doughnuts",global.Doughnuts)
+ini_write_real("save","computer",global.Computer)
+ini_write_real("save","desk",global.Desk)
+ini_write_real("save","holiday",global.Holiday)
+*/
 ini_close();

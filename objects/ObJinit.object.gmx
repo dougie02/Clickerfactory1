@@ -30,7 +30,13 @@ global.points2 = 0;
 global.workers = 1;
 global.moneyloss =1;
 global.moneygain =0;
-
+//Upgrades
+global.Chair = 0;
+global.Coffee = 0;
+global.Doughnuts = 0;
+global.Computer = 0;
+global.Desk = 0;
+global.Holiday = 0;
 </string>
           </argument>
         </arguments>

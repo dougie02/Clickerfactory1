@@ -12,7 +12,9 @@
       <sprite>sprites\SPR_Quit</sprite>
       <sprite>sprites\SPR_contine</sprite>
       <sprite>sprites\sprUpgrades</sprite>
+      <sprite>sprites\sprHire</sprite>
       <sprite>sprites\sprBuy</sprite>
+      <sprite>sprites\sprBuyGray</sprite>
     </sprites>
     <sprites name="Upgrades">
       <sprite>sprites\sprComputer</sprite>
@@ -35,6 +37,7 @@
       <object>objects\objInit</object>
       <object>objects\objLoad</object>
       <object>objects\objSave</object>
+      <object>objects\objTest</object>
     </objects>
     <objects name="Buttons">
       <object>objects\objNew</object>
@@ -58,18 +61,25 @@
       <objects name="WorkEfficiency">
         <object>objects\objChairUpgrade</object>
         <object>objects\objChairUpgradeBuy</object>
+        <object>objects\objChairUpgradeBuyGrayed</object>
         <object>objects\objCoffee</object>
         <object>objects\objCoffeeBuy</object>
+        <object>objects\objCoffeeBuyGrayed</object>
         <object>objects\objDoughnuts</object>
         <object>objects\objDoughnutsBuy</object>
+        <object>objects\objDoughnutsBuyGrayed</object>
         <object>objects\objComputerUpgrade</object>
         <object>objects\objComputerUpgradeBuy</object>
+        <object>objects\objComputerUpgradeBuyGrayed</object>
         <object>objects\objDesk</object>
         <object>objects\objDeskBuy</object>
+        <object>objects\objDeskBuyGrayed</object>
         <object>objects\objHoliday</object>
         <object>objects\objHolidayBuy</object>
+        <object>objects\objHolidayBuyGrayed</object>
       </objects>
       <object>objects\objNewWorker</object>
+      <object>objects\objWorkerHire</object>
     </objects>
   </objects>
   <rooms name="rooms">

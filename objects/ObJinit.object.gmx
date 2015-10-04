@@ -37,6 +37,13 @@ global.Doughnuts = 0;
 global.Computer = 0;
 global.Desk = 0;
 global.Holiday = 0;
+//Upgrade Costs
+global.DoughnutsCosts = 25;
+global.CoffeeCosts = 50;
+global.ChairCosts = 100;
+global.DeskCosts = 200;
+global.ComputerCosts = 500;
+global.HolidayCosts = 600;
 </string>
           </argument>
         </arguments>

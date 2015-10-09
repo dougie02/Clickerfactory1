@@ -25,7 +25,8 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>if(global.points &lt;= global.DoughnutsCosts){
+            <string>if(global.points == 100){
+
 }else{
 instance_change(objDoughnutsBuyGrayed,true);
 }
@@ -34,6 +35,7 @@ instance_change(objDoughnutsBuyGrayed,true);
         </arguments>
       </action>
     </event>
+<<<<<<< HEAD
     <event eventtype="6" enumb="7">
       <action>
         <libid>1</libid>
@@ -60,6 +62,8 @@ instance_change(objDoughnutsBuyGrayed,true);
         </arguments>
       </action>
     </event>
+=======
+>>>>>>> parent of 8bfeb78... i am cool
   </events>
   <PhysicsObject>0</PhysicsObject>
   <PhysicsObjectSensor>0</PhysicsObjectSensor>

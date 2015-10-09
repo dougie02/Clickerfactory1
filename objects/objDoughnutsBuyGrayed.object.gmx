@@ -7,6 +7,7 @@
   <persistent>0</persistent>
   <parentName>&lt;undefined&gt;</parentName>
   <maskName>&lt;undefined&gt;</maskName>
+<<<<<<< HEAD
   <events>
     <event eventtype="3" enumb="0">
       <action>
@@ -58,6 +59,9 @@ instance_change(objChairUpgradeBuy,true);
       </action>
     </event>
   </events>
+=======
+  <events/>
+>>>>>>> parent of 8bfeb78... i am cool
   <PhysicsObject>0</PhysicsObject>
   <PhysicsObjectSensor>0</PhysicsObjectSensor>
   <PhysicsObjectShape>0</PhysicsObjectShape>

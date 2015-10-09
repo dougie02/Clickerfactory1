@@ -37,7 +37,7 @@
       <object>objects\objInit</object>
       <object>objects\objLoad</object>
       <object>objects\objSave</object>
-      <object>objects\objNotEnoughMoney</object>
+      <object>objects\objTest</object>
     </objects>
     <objects name="Buttons">
       <object>objects\objNew</object>

@@ -56,7 +56,7 @@
     <instance objName="objSave" x="64" y="0" name="inst_C3FBD457" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objFactory" x="240" y="400" name="inst_7792B4C1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objUpgrades" x="64" y="64" name="inst_1D902183" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="objNotEnoughMoney" x="96" y="0" name="inst_B39EEECE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objTest" x="96" y="0" name="inst_B39EEECE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

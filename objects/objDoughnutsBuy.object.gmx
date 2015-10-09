@@ -58,7 +58,6 @@ instance_change(objDoughnutsBuyGrayed,true);
             <kind>1</kind>
             <string>if(global.points &lt;= global.DoughnutsCosts){
     global.moneygain += 0.5;
-    global.points -= global.DoughnutsCosts;
 }
 </string>
           </argument>

@@ -59,36 +59,24 @@
     </objects>
     <objects name="Upgrades">
       <objects name="WorkEfficiency">
-        <objects name="Doughnuts">
-          <object>objects\objDoughnuts</object>
-          <object>objects\objDoughnutsBuy</object>
-          <object>objects\objDoughnutsBuyGrayed</object>
-        </objects>
-        <objects name="Coffee">
-          <object>objects\objCoffee</object>
-          <object>objects\objCoffeeBuy</object>
-          <object>objects\objCoffeeBuyGrayed</object>
-        </objects>
-        <objects name="Chair">
-          <object>objects\objChairUpgrade</object>
-          <object>objects\objChairUpgradeBuy</object>
-          <object>objects\objChairUpgradeBuyGrayed</object>
-        </objects>
-        <objects name="Desk">
-          <object>objects\objDesk</object>
-          <object>objects\objDeskBuy</object>
-          <object>objects\objDeskBuyGrayed</object>
-        </objects>
-        <objects name="Computer">
-          <object>objects\objComputerUpgrade</object>
-          <object>objects\objComputerUpgradeBuy</object>
-          <object>objects\objComputerUpgradeBuyGrayed</object>
-        </objects>
-        <objects name="Holiday">
-          <object>objects\objHoliday</object>
-          <object>objects\objHolidayBuy</object>
-          <object>objects\objHolidayBuyGrayed</object>
-        </objects>
+        <object>objects\objChairUpgrade</object>
+        <object>objects\objChairUpgradeBuy</object>
+        <object>objects\objChairUpgradeBuyGrayed</object>
+        <object>objects\objCoffee</object>
+        <object>objects\objCoffeeBuy</object>
+        <object>objects\objCoffeeBuyGrayed</object>
+        <object>objects\objDoughnuts</object>
+        <object>objects\objDoughnutsBuy</object>
+        <object>objects\objDoughnutsBuyGrayed</object>
+        <object>objects\objComputerUpgrade</object>
+        <object>objects\objComputerUpgradeBuy</object>
+        <object>objects\objComputerUpgradeBuyGrayed</object>
+        <object>objects\objDesk</object>
+        <object>objects\objDeskBuy</object>
+        <object>objects\objDeskBuyGrayed</object>
+        <object>objects\objHoliday</object>
+        <object>objects\objHolidayBuy</object>
+        <object>objects\objHolidayBuyGrayed</object>
       </objects>
       <object>objects\objNewWorker</object>
       <object>objects\objWorkerHire</object>

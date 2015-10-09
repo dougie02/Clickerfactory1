@@ -36,6 +36,7 @@ instance_change(objDoughnutsBuyGrayed,true);
       </action>
     </event>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <event eventtype="6" enumb="7">
       <action>
         <libid>1</libid>
@@ -62,6 +63,8 @@ instance_change(objDoughnutsBuyGrayed,true);
         </arguments>
       </action>
     </event>
+=======
+>>>>>>> parent of 8bfeb78... i am cool
 =======
 >>>>>>> parent of 8bfeb78... i am cool
   </events>

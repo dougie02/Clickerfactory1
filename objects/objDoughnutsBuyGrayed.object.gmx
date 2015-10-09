@@ -8,6 +8,7 @@
   <parentName>&lt;undefined&gt;</parentName>
   <maskName>&lt;undefined&gt;</maskName>
 <<<<<<< HEAD
+<<<<<<< HEAD
   <events>
     <event eventtype="3" enumb="0">
       <action>
@@ -59,6 +60,9 @@ instance_change(objChairUpgradeBuy,true);
       </action>
     </event>
   </events>
+=======
+  <events/>
+>>>>>>> parent of 8bfeb78... i am cool
 =======
   <events/>
 >>>>>>> parent of 8bfeb78... i am cool
